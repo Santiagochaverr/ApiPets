@@ -1,0 +1,68 @@
+"gatos": [
+    {
+        "id": 1,
+        "nombre": "Matilde",
+        "sexo": "femenino",
+        "raza": "British Shorthair",
+        "edad": "6 meses",
+        "dirección": "",
+        "personalidad": "Jugueton",
+        "historia": ""
+
+    },
+    
+    {
+
+    },
+    {
+
+    },
+    {
+
+    }
+],
+"perros": [
+    {
+           "gatos": [
+    {
+        "id": 1,
+        "nombre": "Matilde",
+        "sexo": "femenino",
+        "raza": "British Shorthair",
+        "edad": "6 meses",
+        "dirección": "",
+        "personalidad": "Jugueton",
+        "historia": ""
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    }
+]
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    }
+]
+
+
+
+
+
+
+
+
+
